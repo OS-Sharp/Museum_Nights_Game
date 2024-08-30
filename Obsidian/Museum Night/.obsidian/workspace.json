@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "cf7387dc9f796f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "691154dd67eb3da1",
+        "type": "tabs",
+        "dimension": 77.66497461928934,
+        "children": [
+          {
+            "id": "2c9994ac795c3355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elevator Pitch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fc6ce9af7e98ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Systems/Player Systems/Player Movement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "478f577c0267c601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Systems/GAMEPLAY LOOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6e9f4f66c430fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Systems/Cleaning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4b5585ad78b5e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Systems/Classes and Vehicles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c12ba9e9ddd185a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Systems/Observation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8369d0654e3b65bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Systems/Vision Cones and Hiding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "887eb7a4f691f61d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Systems/Player Systems/Player Movement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f6c739f97d9f214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmetics/Custom hats.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "7621a6fa6047d61f",
+        "type": "tabs",
+        "dimension": 22.33502538071066,
+        "children": [
+          {
+            "id": "1f120f8bbb00ed70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmetics/Custom hats.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "123c25bf43eea74d",
+    "type": "split",
+    "children": [
+      {
+        "id": "86094702b2aadf1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7534eb69cd3795d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba0fd5c16d9593b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b8f6ecaea41fbd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ef60cd44d2b0299",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbf983d99ddaf632",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e05cba7e046d7f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cosmetics/Custom hats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49f901b7d356c6ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cosmetics/Custom hats.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f75591971f13b93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b716ed43f298251",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cosmetics/Custom hats.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "0f6c739f97d9f214",
+  "lastOpenFiles": [
+    "Images/Concept Art/Character Concept Art/Pasted image 20240830174549.png",
+    "Pasted image 20240830174530.png",
+    "Cosmetics/Custom hats.md",
+    "Images/Concept Art/Environment Concept Art",
+    "Images/Concept Art/System Concept Art",
+    "Images/Concept Art/Relic Concept Art",
+    "Images/Concept Art/Monster Concept Art",
+    "Images/Concept Art/Character Concept Art",
+    "Images/Concept Art",
+    "Images",
+    "Images/Concept Art/Character Concept Art/Pasted image 20240830174307.png",
+    "Monsters/Monsters.md",
+    "Museum Sections/Archives",
+    "Museum Sections/Art Museum",
+    "Museum Sections/Natural History Museum",
+    "Core Systems/Vision Cones and Hiding.md",
+    "Core Systems/Player Systems/Roombas.md",
+    "Core Systems/Player Systems/Player Movement.md",
+    "Core Systems/Player Systems/Items and Inventory.md",
+    "Core Systems/Observation.md",
+    "Core Systems/GAMEPLAY LOOP.md",
+    "Core Systems/Player Systems/Death.md",
+    "Cosmetics.md",
+    "Core Systems/Cleaning.md",
+    "Core Systems/Classes and Vehicles.md",
+    "Core Systems/Tasks/Tasks.md",
+    "Elevator Pitch.md",
+    "Core Systems/Tasks.md",
+    "Core Systems/Line of Sight.md",
+    "Core Systems/Monsters.md",
+    "Misc/Untitled.md",
+    "Core Systems/Tools.md",
+    "Gameplay Loop/Untitled 1.md",
+    "Welcome.md"
+  ]
+}
