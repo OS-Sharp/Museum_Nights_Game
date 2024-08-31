@@ -1,0 +1,1 @@
+The third form, possibly a the skeleton of a primate or agile hunter like a simbakubwa, would be characterized by hiding and stalking. This form would have a high line of sight, making hiding underneath things more effective against it, and would try to avoid cameras and player line of sight to stalk and ambush players. 

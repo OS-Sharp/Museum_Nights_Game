@@ -1,0 +1,4 @@
+Aim to release early access within a little over a year, four to six month vertical slice development for the publisher and six to eight month development window under the publisher with funding to keep publisher rebate low. 
+	-Most important thing for vertical slice is to have the gameplay loop functioning. Content scope probably just the the natural history museum section with three exhibits, three monsters, and a dozen or so cursed relics. Having a good diversity of [[Tasks]] would also be a good idea, maybe at least 2 section tasks, 6 exhibit tasks, and 10 basic tasks
+	-early access should probably be about twice the content as the vertical slice, maybe more , with a higher level of polish. So probably 2 [[museum sections]] and the [[Archives]] for early access, 6 exhibits with 7-9 monsters and twenty or so  [[relics]]
+Scope will increase a lot after early access release and we start updating the game

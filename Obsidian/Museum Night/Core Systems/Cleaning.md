@@ -1,0 +1,3 @@
+One of players' primary jobs in the game is cleaning the museum, cleaning the museum makes them money to buy more and better tools. Failing to clean incurs fines that make it more difficult to afford good tools. Cleaning is not always tied to players win condition, instead [[Tasks]] will be the players' win condition which might sometimes also ask players to clean as well.
+
+When a player dies, so long as they weren't the last one alive they can possess [[Roombas]] to aid in cleaning. 

@@ -6,7 +6,7 @@
       {
         "id": "691154dd67eb3da1",
         "type": "tabs",
-        "dimension": 77.66497461928934,
+        "dimension": 53.109137055837564,
         "children": [
           {
             "id": "2c9994ac795c3355",
@@ -110,7 +110,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmetics/Custom hats.md",
+                "file": "Misc/Meeting Notes/2-9-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6359de3836c2ebfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Systems/Cleaning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2407284adb2c362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Systems/Player Systems/Player Movement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,12 +144,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       },
       {
         "id": "7621a6fa6047d61f",
         "type": "tabs",
-        "dimension": 22.33502538071066,
+        "dimension": 46.890862944162436,
         "children": [
           {
             "id": "1f120f8bbb00ed70",
@@ -131,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmetics/Custom hats.md",
+                "file": "Misc/Meeting Notes/8-18-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -204,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmetics/Custom hats.md",
+                "file": "Core Systems/Player Systems/Player Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmetics/Custom hats.md",
+                "file": "Core Systems/Player Systems/Player Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cosmetics/Custom hats.md"
+                "file": "Core Systems/Player Systems/Player Movement.md"
               }
             }
           }
@@ -267,11 +293,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0f6c739f97d9f214",
+  "active": "d2407284adb2c362",
   "lastOpenFiles": [
+    "Core Systems/Player Systems/Roombas.md",
+    "Core Systems/Player Systems/Items and Inventory.md",
+    "Core Systems/Player Systems/Death.md",
+    "Core Systems/Cleaning.md",
+    "Misc/Meeting Notes/8-18-24.md",
+    "Core Systems/Tasks/Tasks.md",
+    "Core Systems/Player Systems/Player Movement.md",
+    "Core Systems/Tasks/1 Basic Tasks/Basic Task Brainstorming.md",
+    "Core Systems/GAMEPLAY LOOP.md",
+    "Core Systems/Classes and Vehicles.md",
+    "Core Systems/Tasks/2 Exhibit Tasks/Exhibit Task Brainstorming.md",
+    "Core Systems/Tasks/1 Basic Tasks/1 Basic Tasks.md",
+    "Basic tasks.md",
+    "Core Systems/Tasks/2 Exhibit Tasks/2 Exhibit Tasks.md",
+    "Core Systems/Tasks/4 Museum Tasks/4 Museum Tasks.md",
+    "Core Systems/Tasks/3 Section Tasks/3 Section Tasks.md",
+    "Scope.md",
+    "Museum Sections/Museum Sections.md",
+    "Relics/Relics.md",
+    "Museum Sections/Archives/Archives.md",
+    "Misc/Meeting Notes/8-29-24.md",
     "Images/Concept Art/Character Concept Art/Pasted image 20240830174549.png",
+    "Core Systems/Observation.md",
+    "Monsters/Natural History Museum/Skeletal Parasite/Mastodon form.md",
+    "Monsters/Natural History Museum/Skeletal Parasite/Dire Wolf Form.md",
+    "Monsters/Natural History Museum/Skeletal Parasite/Third Form.md",
+    "Images/Concept Art/Monster Concept Art/Pasted image 20240830214854.png",
+    "Monsters/Natural History Museum/Skeletal Parasite/Skeletal Parasite.md",
+    "Monsters/Natural History Museum/Skeletal Parasite",
+    "Monsters/Natural History Museum",
     "Pasted image 20240830174530.png",
-    "Cosmetics/Custom hats.md",
     "Images/Concept Art/Environment Concept Art",
     "Images/Concept Art/System Concept Art",
     "Images/Concept Art/Relic Concept Art",
@@ -280,28 +334,6 @@
     "Images/Concept Art",
     "Images",
     "Images/Concept Art/Character Concept Art/Pasted image 20240830174307.png",
-    "Monsters/Monsters.md",
-    "Museum Sections/Archives",
-    "Museum Sections/Art Museum",
-    "Museum Sections/Natural History Museum",
-    "Core Systems/Vision Cones and Hiding.md",
-    "Core Systems/Player Systems/Roombas.md",
-    "Core Systems/Player Systems/Player Movement.md",
-    "Core Systems/Player Systems/Items and Inventory.md",
-    "Core Systems/Observation.md",
-    "Core Systems/GAMEPLAY LOOP.md",
-    "Core Systems/Player Systems/Death.md",
-    "Cosmetics.md",
-    "Core Systems/Cleaning.md",
-    "Core Systems/Classes and Vehicles.md",
-    "Core Systems/Tasks/Tasks.md",
-    "Elevator Pitch.md",
-    "Core Systems/Tasks.md",
-    "Core Systems/Line of Sight.md",
-    "Core Systems/Monsters.md",
-    "Misc/Untitled.md",
-    "Core Systems/Tools.md",
-    "Gameplay Loop/Untitled 1.md",
-    "Welcome.md"
+    "Museum Sections/Archives"
   ]
 }
