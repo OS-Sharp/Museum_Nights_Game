@@ -1,0 +1,1 @@
+The main three classes are engineer, custodian, and security guard. Each class has a vehicle tied to them that also acts as an inventory to store their tools on, 

@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Systems/Classes and Vehicles.md",
+                "file": "Core Systems/Player Systems/Classes/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Systems/Player Systems/Player Movement.md",
+                "file": "Core Systems/Player Systems/Classes/Classes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Meeting Notes/8-18-24.md",
+                "file": "Core Systems/Player Systems/Player Movement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -214,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "right": {
     "id": "2ef60cd44d2b0299",
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Systems/Player Systems/Player Movement.md",
+                "file": "Core Systems/Player Systems/Classes/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Systems/Player Systems/Player Movement.md",
+                "file": "Core Systems/Player Systems/Classes/Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Systems/Player Systems/Player Movement.md"
+                "file": "Core Systems/Player Systems/Classes/Classes.md"
               }
             }
           }
@@ -295,34 +295,36 @@
   },
   "active": "d2407284adb2c362",
   "lastOpenFiles": [
-    "Core Systems/Player Systems/Roombas.md",
     "Core Systems/Player Systems/Items and Inventory.md",
     "Core Systems/Player Systems/Death.md",
-    "Core Systems/Cleaning.md",
-    "Misc/Meeting Notes/8-18-24.md",
-    "Core Systems/Tasks/Tasks.md",
     "Core Systems/Player Systems/Player Movement.md",
+    "Core Systems/Player Systems/Classes/Classes.md",
+    "Core Systems/Player Systems/Roombas.md",
     "Core Systems/Tasks/1 Basic Tasks/Basic Task Brainstorming.md",
-    "Core Systems/GAMEPLAY LOOP.md",
-    "Core Systems/Classes and Vehicles.md",
     "Core Systems/Tasks/2 Exhibit Tasks/Exhibit Task Brainstorming.md",
-    "Core Systems/Tasks/1 Basic Tasks/1 Basic Tasks.md",
-    "Basic tasks.md",
-    "Core Systems/Tasks/2 Exhibit Tasks/2 Exhibit Tasks.md",
+    "Core Systems/Cleaning.md",
+    "Core Systems/GAMEPLAY LOOP.md",
+    "Core Systems/Observation.md",
     "Core Systems/Tasks/4 Museum Tasks/4 Museum Tasks.md",
     "Core Systems/Tasks/3 Section Tasks/3 Section Tasks.md",
-    "Scope.md",
-    "Museum Sections/Museum Sections.md",
+    "Misc/Meeting Notes/2-9-24.md",
+    "Tools/Tools.md",
     "Relics/Relics.md",
-    "Museum Sections/Archives/Archives.md",
+    "World/Elder Gods.md",
+    "World/Observation.md",
+    "World/The Curator.md",
+    "World/The Museum.md",
     "Misc/Meeting Notes/8-29-24.md",
+    "Misc/Meeting Notes/8-18-24.md",
+    "Core Systems/Player Systems/Classes",
+    "Untitled",
+    "Core Systems/Tasks/1 Basic Tasks/1 Basic Tasks.md",
+    "Core Systems/Tasks/Tasks.md",
+    "Basic tasks.md",
+    "Core Systems/Tasks/2 Exhibit Tasks/2 Exhibit Tasks.md",
+    "Scope.md",
     "Images/Concept Art/Character Concept Art/Pasted image 20240830174549.png",
-    "Core Systems/Observation.md",
-    "Monsters/Natural History Museum/Skeletal Parasite/Mastodon form.md",
-    "Monsters/Natural History Museum/Skeletal Parasite/Dire Wolf Form.md",
-    "Monsters/Natural History Museum/Skeletal Parasite/Third Form.md",
     "Images/Concept Art/Monster Concept Art/Pasted image 20240830214854.png",
-    "Monsters/Natural History Museum/Skeletal Parasite/Skeletal Parasite.md",
     "Monsters/Natural History Museum/Skeletal Parasite",
     "Monsters/Natural History Museum",
     "Pasted image 20240830174530.png",
@@ -332,8 +334,6 @@
     "Images/Concept Art/Monster Concept Art",
     "Images/Concept Art/Character Concept Art",
     "Images/Concept Art",
-    "Images",
-    "Images/Concept Art/Character Concept Art/Pasted image 20240830174307.png",
-    "Museum Sections/Archives"
+    "Images/Concept Art/Character Concept Art/Pasted image 20240830174307.png"
   ]
 }

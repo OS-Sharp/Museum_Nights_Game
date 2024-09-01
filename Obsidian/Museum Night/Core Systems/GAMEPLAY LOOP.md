@@ -1,0 +1,4 @@
+**Goal**: Players have multiple goals in this game, each round their primary goal is to complete the [[Tasks]] that they have been assigned, their secondary goal is going to be dependant on the class they are assigning to themselves.
+**Rounds**: when players enter gameplay it begins a round, rounds can last anywhere from five to thirty minutes depending on how quickly players complete their [[Tasks]].
+**Progression:** As players complete more rounds they will begin unlocking new exhibits, sections of the museum, and more numerous and difficult [[Tasks]] to complete. Money they get from [[Cleaning]] can be spent on new and more tools and equipment to aid them in their nightly tasks. 
+[[Classes]]: Players will assign themselves a 'class' by remaining near the vehicle that stores their class tools. 

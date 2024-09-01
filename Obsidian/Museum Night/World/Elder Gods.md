@@ -1,0 +1,1 @@
+Lovecraftian style deities that reside outside of reality. Indescribable and unobservable without going mad, with the exception of objects of worship denoted towards them. 
