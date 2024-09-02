@@ -1,0 +1,2 @@
+Sprinting/Stamina:
+Instead of a visible stamina meter, as players run the edges of their screen begins to darken obscuring vision, footsteps become heavier, and players start hearing tinnitus. Once this has progressed enough players running will become a little bit slower and they can trip; rag-dolling onto the ground and then taking some time to get back up making them extremely vulnerable to monsters. Tripping occurs more frequently the longer they sprint and is significantly more common when players are in danger.

@@ -1,0 +1,1 @@
+The Curator is a powerful elder god that secretly runs the museum behind the scenes. 

@@ -1,0 +1,3 @@
+Upon [[death]], until all players are dead players become ghosts and can possess roombas to assist in [[Cleaning]]. Players can also attach certain tools to Roombas allowing them to use them, like cameras, or something like a spirit box to be able to talk to the dead player to a limited extent. 
+
+Movement: Roombas should have a fairly rigid, annoying moveset like real roombas; having limited turning speed with the exception of a short time after they bump into walls. 
